@@ -148,7 +148,7 @@ void loop() {
 
   //Serial.print(" /114 Z:");
   Serial.print(z / 114);
-  //Serial.println("\t");
+  Serial.println("\t");
 
   //Serial.print("Raw X:");
   Serial.print(x);
